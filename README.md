@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=amie-dev&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amie-dev&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=amie-dev&bg_color=02000e&color=ffffff&line=37ff10&point=ffffff&area=true&hide_border=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amie-dev&bg_color=02000e&color=ffffff&line=37ff10&point=ffffff&area=true&hide_border=true" alt="activity graph" />
     </a>
 </div>
