@@ -1,5 +1,3 @@
-## Hi there 👋
----
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=100&size=22&letterSpacing=2px&duration=5001&pause=1000&color=F7EC8F&width=440&height=65&lines=%F0%9F%91%8B+Hii%2C+I'm+Aminul%2C+MERN+dev.;%F0%9F%93%9A+Student%2C+learning+new+skills+daily.;%F0%9F%92%BB+MERN+stack+and+full-stack+projects.;%F0%9F%9A%80+Exploring+Next.js%2C+TypeScript%2C+Gen+AI.;%F0%9F%A4%9D+Open+to+learning+and+collaboration." alt="Typing SVG" /></a>
 ---
