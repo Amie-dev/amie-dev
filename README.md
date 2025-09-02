@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=100&size=22&letterSpacing=2px&duration=5001&pause=1000&color=F7EC8F&width=440&height=65&lines=%F0%9F%91%8B+Hii%2C+I'm+Aminul%2C+MERN+dev.;%F0%9F%93%9A+Student%2C+learning+new+skills+daily.;%F0%9F%92%BB+MERN+stack+and+full-stack+projects.;%F0%9F%9A%80+Exploring+Next.js%2C+TypeScript%2C+Gen+AI.;%F0%9F%A4%9D+Open+to+learning+and+collaboration." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Verdana&weight=700&size=20&letterSpacing=0px&duration=5001&pause=1000&color=4169E1&width=440&height=65&lines=%F0%9F%91%8B+Hii%2C+I%27m+Aminul%2C+MERN+dev.;%F0%9F%93%9A+Student%2C+learning+new+skills+daily.;%F0%9F%92%BB+MERN+stack+and+full-stack+projects.;%F0%9F%9A%80+Exploring+Next.js%2C+TS%2C+Gen+AI.;%F0%9F%A4%9D+Open+to+learning+and+collaboration" alt="Typing SVG" /></a>
 ---
 🚀 A passionate **MERN Stack Developer** currently exploring advanced web technologies and the world of **Generative AI**.  
 I enjoy building full-stack applications, learning new frameworks, and solving real-world problems with code.  
